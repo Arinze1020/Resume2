@@ -1,0 +1,138 @@
+/***
+User Profile Sidebar by @keenthemes
+A component of Metronic Theme - #1 Selling Bootstrap 3 Admin Theme in Themeforest: https://j.mp/metronictheme
+Licensed under MIT #F1F3FA
+***/
+
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Roboto&display=swap');
+
+body {
+    background: rgb(2, 0, 31);
+  }
+  
+  /* Profile container */
+  .profile {
+    margin: 20px 0;
+  }
+  
+  /* Profile sidebar */
+  .profile-sidebar {
+    padding: 20px 0 10px 0;
+    background: #fff;
+       
+  }
+  
+  .profile-userpic img {
+    float: none;
+    margin: 0 auto;
+    width: 50%;
+    height: 50%;
+    -webkit-border-radius: 50% !important;
+    -moz-border-radius: 50% !important;
+    border-radius: 50% !important;
+  }
+  
+  .profile-usertitle {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .profile-usertitle-name {
+    color: #5a7391;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 7px;
+  }
+  
+  .profile-usertitle-job {
+    text-transform: uppercase;
+    color: #5b9bd1;
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+  
+  .email {
+    text-transform: uppercase;
+    color: #5b9bd1;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+  .profile-userbuttons {
+    text-align: center;
+    margin-top: 10px;
+  }
+      
+  .profile-usermenu {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  
+  /* Profile Content */
+  .profile-content {
+    padding: 20px;
+    background: #fff;
+    min-height: 460px;
+  }
+  
+
+  a, button, code, div, img,  p, select, span,i {
+      -webkit-border-radius: 0!important;
+      -moz-border-radius: 0!important;
+      border-radius: 0!important;
+  }
+
+  .description{
+    font-family: Robot, cursive;
+    
+  }
+  .self-point{
+    font-family: Robot, cursive;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 15px;
+    
+  }
+  .self-detail{
+    background-color: rgb(250, 248, 248);
+    box-shadow: inset 0px opx 12px opx rgba(0,0,0, 0.1);
+    padding: 2rem 0;
+
+  }
+  .box {
+    padding: 13px;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 0 5px 20px 3px;
+    background: #fff;
+    box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
+    transition: all 0.3s ease-in-out;
+    height:95%;
+    Width :95%;
+
+
+  }
+  .icon{
+    position: absolute;
+    left: 15px;
+    padding: 5px;
+    padding-top: 5px;
+    top: calc(50% - 32%);
+    color: rgb(23, 23, 212);
+
+  }
+  .title{
+    margin-left: 60px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  .title-detail{
+    font-size: 14px;
+    margin-left: 45px;
+    line-height: 20px;
+    margin-bottom: 0;
+    font-family: Robot, cursive;
+  }
