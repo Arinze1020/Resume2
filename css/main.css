@@ -136,3 +136,35 @@ body {
     margin-bottom: 0;
     font-family: Robot, cursive;
   }
+
+  .profile-content-resume{
+    padding: 20px;
+    background: #fff;
+    min-height: 460px;
+
+  }
+  .self-detail-resume{
+    background: #fff;
+
+
+  }
+  .icon-resume{
+    color: #1717d4;
+  }
+
+  .title-skill{
+    font-weight: 700;
+    font-size: 18px;
+  }
+
+  .title-skill-detil{
+    font-weight: 300;
+    font-size: 14px;
+  }
+  .progress{
+    margin-bottom: 5px;
+    margin-top: 10px;
+    border-radius:16px!important
+  }
+  
+  
