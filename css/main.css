@@ -7,7 +7,7 @@ Licensed under MIT #F1F3FA
 @import url('https://fonts.googleapis.com/css?family=Pacifico|Roboto&display=swap');
 
 body {
-    background: rgb(2, 0, 31);
+    background: rgb(3, 2, 19);
   }
   
   /* Profile container */
@@ -155,16 +155,33 @@ body {
   .title-skill{
     font-weight: 700;
     font-size: 18px;
+    margin-bottom: 30px;
+    margin-top: 15px;
   }
 
   .title-skill-detil{
     font-weight: 300;
     font-size: 14px;
+    margin-bottom: 15px;
+    margin-top: 10px;
   }
   .progress{
     margin-bottom: 5px;
     margin-top: 10px;
     border-radius:16px!important
   }
-  
+  .edu{
+    color: black;
+  }
+  .p-name{
+    text-align: left ;
+    padding: 10px;
+    margin-top: 8px;
+  }
+  .p-perc{
+    text-align: right ;
+    padding: 10px;
+    margin-top: 8px;
+  }
+
   
