@@ -84,12 +84,9 @@ a, button, code, div, img, p, select, span, i {
   border-radius: 0!important;
 }
 
-.description {
-  font-family: Robot, cursive;
-}
 
 .self-point {
-  font-family: Robot, cursive;
+ 
   font-size: 16px;
   font-weight: 600;
   padding: 15px;
